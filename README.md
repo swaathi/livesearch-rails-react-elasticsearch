@@ -1,5 +1,7 @@
 # livesearch-rails-react-elasticsearch
-A Rails application that uses ReactJS and Elasticsearch to build a reactive(live) search page
+A Rails application that uses ReactJS and Elasticsearch to build a reactive(live) search page. 
+
+You can find a detailed tutorial on [Medium](#).
 
 ### Installation
 1. Install [Rails 4.x.x](http://rubyonrails.org) on your environment.
