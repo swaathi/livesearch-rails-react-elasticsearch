@@ -1,0 +1,7 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Songs</h1>
+
+<%= react_component "SongsContainer", { songsPath: songs_path(:json), searchPath: search_path } %>
+<%= link_to 'New Song', new_song_path %>
+
