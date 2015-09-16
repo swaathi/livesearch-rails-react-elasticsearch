@@ -17,5 +17,5 @@ You can find a detailed tutorial on [Medium](https://blog.skcript.com/building-a
 2. Give me a pull request with a valid description.
 
 ### Support
-Raise bugs in [Issue Tracker](https://github.com/swaathi/livesearch-rails-react-elasticsearch/issues)
+Raise bugs in the Github [Issue Tracker](https://github.com/swaathi/livesearch-rails-react-elasticsearch/issues).
 
